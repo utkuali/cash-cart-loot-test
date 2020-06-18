@@ -4,7 +4,7 @@ Some experiments for grabbing the cash in the carts just like in gta5
 
 I haven't finished this because I'm focusing on some scripts...
 
-https://streamable.com/0lf0a
+Video: https://streamable.com/0lf0a
 
 ## Testing & Usage
 
