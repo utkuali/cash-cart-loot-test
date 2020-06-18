@@ -15,3 +15,6 @@ type "testgrab" to begin looting
 if you cancel you can start looting from where you left with command "testgrab2"
 
 feel free to complete & use this snippet, if you discover something are complete it PR will be great
+
+
+Thanks Danistheman262 from GTA5-Mods.com for showing me the right native functions.
