@@ -8,6 +8,8 @@ Video: https://streamable.com/0lf0a
 
 ## Testing & Usage
 
+You don't need any script to run/test this
+
 type "testgrab" to begin looting
 
 if you cancel you can start looting from where you left with command "testgrab2"
